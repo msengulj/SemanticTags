@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="life" content="manymoments">
+  <title>Program for history</title>
+</head>
+  
+<body>
+  <header>
+      <hgroup>
+        <h1>Linked and dropped down lives</h1>
+        <h2>Sounds complicated, but it's sort of art</h2>
+      </hgroup>
+    <nav>
+      <ul>
+        <li><a href="#">Times of ships</a></li>
+        <li><a href="#">Magyarorszag</a></li>
+        <li><a href="#">Years of reading</a></li>
+        <li><a href="#">Joy, second shifting</a></li>
+        <li><a href="#">Yet to come</a></li>
+      </ul>
+    </nav>
+  </header>
+  
+  <article>
+    <header>
+      <time datetime="2015-10-14" pubdate>"Now"</time>
+      <h1>
+        <a href="#" rel="bookmark" title="link">The news makes me cry</a>
+      </h1>
+    </header>
+      <p>
+    Insert text here.
+      </p>
+  </article>
+  
+  <article>
+    <header>
+      <time datetime="2015-10-14" pubdate>"Earlier"</time>
+      <h1>
+        <a href="#" rel="bookmark" title="link">Failing better</a>
+      </h1>
+    </header>
+      <p>
+    Insert text here.      
+      </p>    
+  </article>
+  
+  <article>
+    <header>
+      <time datetime="2015-10-14" pubdate>"Earlier yet"</time>
+      <h1>
+        <a href="#" rel="bookmark" title="link">Bathtime in Istanbul</a>
+      </h1>
+    </header>
+    <figure>
+     <video src="bathtime.mp4" alt="Baby is given bath by three adults, four mintue homevideo" width="400" height="300">
+      </video>
+      <figcaption>Three doting adults bathe a cooing baby in a blue plastic bathtub during the call to prayer.
+      </figcaption>
+    </figure>
+  </article>
+  
+  <footer>
+    <p>Copyright: MSJ</p>
+    <p>Contact: jones.monika at gmail.com</p>
+  </footer>
+  
+</body>
+</html>
